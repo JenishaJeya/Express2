@@ -1,0 +1,25 @@
+{
+  "name": "express-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "Jensa",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "debug": "^4.3.4",
+    "express": "^4.16.4",
+    "mongoose": "^6.9.0",
+    "morgan": "^1.10.0",
+    "mqtt": "^4.3.7",
+    "nodemon": "^2.0.22",
+    "routes": "^2.1.0",
+    "scrabble": "^1.0.13",
+    "start": "^5.1.0"
+  }
+}
